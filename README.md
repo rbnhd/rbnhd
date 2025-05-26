@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=rbnhd&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 [![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE)
-[![test](https://img.shields.io/badge/test-failed-green.svg?style=flat)](LICENSE)
+[![test](https://img.shields.io/badge/test-passed-green.svg?style=flat)](LICENSE)
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
