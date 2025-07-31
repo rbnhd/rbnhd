@@ -27,13 +27,9 @@ Here are some ideas to get you started:
 <div align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rbnhd&theme=github_dark"/> </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rbnhd&count_private=true&show_icons=true&theme=dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbnhd&layout=compact&theme=dark"/>
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=rbnhd&theme=dark"/>
-</div>
 
 
 ### Activity Graph
