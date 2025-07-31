@@ -1,4 +1,6 @@
-## Hi there 👋
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=300&color=1CD30D&vCenter=true&width=550&lines=%F0%9F%91%8B+Hi+there%2C;%F0%9F%98%8A+Thanks+for+visiting!)
+---
+
 
 <!--
 **rbnhd/rbnhd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
