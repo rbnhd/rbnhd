@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 
 ## 📊 GitHub Stats
 <div align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rbnhd&theme=github_dark"/> </div>
-
+<!--
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbnhd&layout=compact&theme=dark"/>
 </div>
-
+-->
 
 
 ### Activity Graph
