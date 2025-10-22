@@ -31,7 +31,7 @@ Here are some ideas to get you started:
   <img src="https://skillicons.dev/icons?i=aws,gcp,py,terraform,kubernetes,linux,cpp,go,docker,jenkins,github,gitlab" />
 </p>
 
-## 📊 GitHub Stats
+## GitHub Stats
 <div align="left"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rbnhd&theme=github_dark"/> </div>
 <!--
 <div align="center">
