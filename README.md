@@ -45,7 +45,8 @@ Here are some ideas to get you started:
 [![rbnhd's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rbnhd&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 -->
 
-### Profile Views Counter
+<br>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=rbnhd&color=brightgreen)
 
 
