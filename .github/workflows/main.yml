@@ -41,5 +41,6 @@ jobs:
         with:
           target_branch: snk
           build_dir: dist
+          keep_history: true
         env:
           GITHUB_TOKEN: ${{ secrets.GH_PAT_REPO_SCOPED }}
