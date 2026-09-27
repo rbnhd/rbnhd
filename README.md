@@ -1,4 +1,5 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=300&color=1CD30D&vCenter=true&width=550&lines=%F0%9F%91%8B+Hi+there%2C;%F0%9F%98%8A+Thanks+for+visiting!)
+<!-- static copy of https://readme-typing-svg.demolab.com?font=Fira+Code&pause=300&color=1CD30D&vCenter=true&width=550&lines=%F0%9F%91%8B+Hi+there%2C;%F0%9F%98%8A+Thanks+for+visiting! -->
+![Typing SVG](https://raw.githubusercontent.com/rbnhd/rbnhd/main/static/hi-there-typing.svg)
 
 ---
 <!--
@@ -28,7 +29,8 @@ Here are some ideas to get you started:
 
 ## Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,py,terraform,kubernetes,linux,cpp,go,docker,jenkins,github,gitlab" />
+  <!-- static copy of https://skillicons.dev/icons?i=aws,gcp,py,terraform,kubernetes,linux,cpp,go,docker,jenkins,github,gitlab -->
+  <img src="https://raw.githubusercontent.com/rbnhd/rbnhd/main/static/tech-stack.svg" />
 </p>
 
 ## GitHub Stats
