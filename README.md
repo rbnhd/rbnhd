@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=rbnhd&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
-[![trophy](https://trophygh.kolioaris.xyz/?username=rbnhd&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://raw.githubusercontent.com/rbnhd/rbnhd/snk/trophy.svg)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Don't mind the 🐍 eating my contributions 😄 
 <picture>

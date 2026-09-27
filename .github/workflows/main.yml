@@ -32,8 +32,16 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-          
-          
+
+      # renders the profile trophy SVG locally, since the hosted github-profile-trophy instances are down
+      - name: generate trophy.svg
+        uses: ryo-ma/github-profile-trophy@e3c89df995e92e67cdd4b2acaab9d974583dc1f7
+        with:
+          username: ${{ github.repository_owner }}
+          output_path: dist/trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          theme: onedark
+
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
       - name: push github-contribution-grid-snake.svg to the output branch
