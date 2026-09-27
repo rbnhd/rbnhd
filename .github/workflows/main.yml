@@ -1,5 +1,5 @@
 # credit: https://github.com/Platane/Platane
-name: generate animation
+name: generate profile assets
 
 on:
   # run automatically every 24 hours
@@ -21,7 +21,7 @@ jobs:
     permissions: 
       contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 10
     
     steps:
       # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
@@ -42,12 +42,27 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           theme: onedark
 
+      # renders the GitHub Stats cards locally instead of calling the hosted github-profile-summary-cards API
+      - name: generate github stats cards
+        uses: vn7n24fzkq/github-profile-summary-cards@d9632798b299e9ad6940449a859c30742eb5b549 # v0.12.0
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          THEME: github_dark
+          AUTO_PUSH: false
+
+      - name: collect github stats cards into dist
+        run: |
+          mkdir -p dist/stats
+          cp profile-summary-card-output/github_dark/*.svg dist/stats/
+
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
-      - name: push github-contribution-grid-snake.svg to the output branch
+      - name: push generated assets to the assets branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          target_branch: snk
+          target_branch: assets
           build_dir: dist
           keep_history: true
         env:

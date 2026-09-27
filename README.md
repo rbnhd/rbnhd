@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 -->
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=rbnhd&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
-[![trophy](https://raw.githubusercontent.com/rbnhd/rbnhd/snk/trophy.svg)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://raw.githubusercontent.com/rbnhd/rbnhd/assets/trophy.svg)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Don't mind the 🐍 eating my contributions 😄 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rbnhd/rbnhd/snk/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rbnhd/rbnhd/snk/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rbnhd/rbnhd/snk/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rbnhd/rbnhd/assets/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rbnhd/rbnhd/assets/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rbnhd/rbnhd/assets/github-contribution-grid-snake.svg">
 </picture>
 
 ## Tech Stack
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 </p>
 
 ## GitHub Stats
-<div align="left"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rbnhd&theme=github_dark"/> </div>
+<div align="left"> <img src="https://raw.githubusercontent.com/rbnhd/rbnhd/assets/stats/0-profile-details.svg"/> </div>
 <!--
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbnhd&layout=compact&theme=dark"/>
